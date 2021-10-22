@@ -1,6 +1,8 @@
 .center {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
+    border: 3px solid rgb(0, 230, 247);
     padding: 10px;
+    text-align: center;
+    margin-top: 100px;
 }
